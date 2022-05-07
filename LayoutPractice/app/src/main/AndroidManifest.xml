@@ -9,8 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.LayoutPractice">
-
-        <!-- 메인 화면-->
+        <activity
+            android:name=".SecondActivity"
+            android:exported="false" />
+        <!-- 메인 화면 -->
         <activity
             android:name=".MainActivity"
             android:exported="true">

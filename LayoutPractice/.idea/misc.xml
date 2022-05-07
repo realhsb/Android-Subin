@@ -8,7 +8,8 @@
         <entry key="app/src/main/res/drawable/rounded_corner.xml" value="0.17" />
         <entry key="app/src/main/res/drawable/rounded_corner_blue.xml" value="0.197" />
         <entry key="app/src/main/res/drawable/rounded_corner_white_transparent.xml" value="0.197" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_second.xml" value="0.32427673339843754" />
       </map>
     </option>
   </component>
